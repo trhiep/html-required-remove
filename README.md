@@ -1,0 +1,2 @@
+# html-required-remove
+Extension
